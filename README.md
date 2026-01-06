@@ -24,14 +24,14 @@
 
 <br><br>
 
-<h3 align="center" style="color: #cbafeb;">⚡ My Technical Toolbox</h3>
+<h3 align="center" style="color: #cbafeb;">My Technical Toolbox</h3>
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=java,go,cpp,cs,python&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,go,cpp,cs,py,nodejs,ts&perline=7" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,android,angular,react&perline=5" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,spring,dotnet,angular,vue,react&perline=6" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,neo4j,docker,rabbitmq,grafana,git,idea&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,docker,rabbitmq,grafana,git,idea&perline=7" />
 </div>
 
 <br><br>
@@ -44,12 +44,13 @@
 | :--- | :--- |
 | **[ Rabbit Social Core](https://github.com/bteodora/rabbit-social-distributed-core)** <br> `Java` `Spring` `Sockets` | Instead of using Nginx, **I wrote my own Load Balancer** and Message Queue in Java to handle high concurrency. It features custom rate-limiting and dual-mode messaging. |
 | **[ Wanderlust Core](https://github.com/bteodora/wanderlust-distributed-core)** <br> `Go` `Microservices` `gRPC` | A deep dive into distributed consistency. I implemented the **SAGA Orchestration pattern** to manage transactions across Postgres, Mongo, and Neo4j. |
-| **[ QuestLog Native](https://github.com/bteodora/questlog-android-native)** <br> `Android` `SQLite` `Sensor Fusion` | Not just a to-do list. It's an **Offline-First** RPG engine that uses the phone's accelerometer (shake events) for combat logic. Syncs seamlessly with Firebase. |
+| **[ Travel Tales](https://github.com/bteodora/travel-tales-ecosystem)** <br> `.NET` `Angular` `PostGIS` | Large-scale tourism platform built using **Domain-Driven Design (DDD)**. Developed by a cross-functional team of **16 engineers**, featuring AI integration and gamification. |
+| **[ QuestLog Native](https://github.com/bteodora/questlog-android-native)** <br> `Android` `SQLite` `Sensors` | Not just a to-do list. It's an **Offline-First** RPG engine that uses the phone's accelerometer (shake events) for combat logic. Syncs seamlessly with Firebase. |
 | **[ Sentinel PKI](https://github.com/bteodora/sentinel-pki-core)** <br> `Java` `Cryptography` `Security` | A military-grade security simulation. Features a **Zero-Knowledge** credential vault and implements complex X.509 certification paths using BouncyCastle. |
-| **[ Manufacturing Core](https://github.com/bteodora/manufacturing-data-core)** <br> `Oracle` `SQL` `Data Modeling` | A real-world ERP module for a family business. It models complex **BOM (Bill of Materials)** structures and replaced a manual paper-based system. |
+| **[ Manufacturing Core](https://github.com/bteodora/manufacturing-data-core)** <br> `Oracle` `SQL` `Modeling` | A real-world ERP module for a family business. It models complex **BOM (Bill of Materials)** structures and replaced a manual paper-based system. |
 
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bteodora&show_icons=true&theme=transparent&hide_border=true&title_color=CBAFEB&text_color=888888&icon_color=CBAFEB&hide=stars" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bteodora&show_icons=true&bg_color=0,0,0,0&title_color=cbafeb&text_color=888888&icon_color=cbafeb&hide_border=true&hide=stars" height="160" alt="stats graph" />
 </div>
