@@ -52,5 +52,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bteodora&show_icons=true&bg_color=0,0,0,0&title_color=cbafeb&text_color=888888&icon_color=cbafeb&hide_border=true&hide=stars" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bteodora&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" height="160" alt="stats graph" />
 </div>
