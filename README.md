@@ -46,7 +46,7 @@
 | **[ Wanderlust Core](https://github.com/bteodora/wanderlust-distributed-core)** <br> `Go` `Microservices` `gRPC` | A deep dive into distributed consistency. I implemented the **SAGA Orchestration pattern** to manage transactions across Postgres, Mongo, and Neo4j. |
 | **[ Travel Tales](https://github.com/bteodora/travel-tales-ecosystem)** <br> `.NET` `Angular` `PostGIS` | Large-scale tourism platform built using **Domain-Driven Design (DDD)**. Developed by a cross-functional team of **16 engineers**, featuring AI integration and gamification. |
 | **[ QuestLog Native](https://github.com/bteodora/questlog-android-native)** <br> `Android` `SQLite` `Sensors` | Not just a to-do list. It's an **Offline-First** RPG engine that uses the phone's accelerometer (shake events) for combat logic. Syncs seamlessly with Firebase. |
-| **[ Sentinel PKI](https://github.com/bteodora/sentinel-pki-core)** <br> `Java` `Cryptography` `Security` | A military-grade security simulation. Features a **Zero-Knowledge** credential vault and implements complex X.509 certification paths using BouncyCastle. |
+| **[ Sentinel PKI](https://github.com/bteodora/pki-management-system)** <br> `Java` `Cryptography` `Security` | A military-grade security simulation. Features a **Zero-Knowledge** credential vault and implements complex X.509 certification paths using BouncyCastle. |
 | **[ Manufacturing Core](https://github.com/bteodora/manufacturing-data-core)** <br> `Oracle` `SQL` `Modeling` | A real-world ERP module for a family business. It models complex **BOM (Bill of Materials)** structures and replaced a manual paper-based system. |
 
 <br><br>
