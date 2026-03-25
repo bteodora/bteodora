@@ -18,6 +18,9 @@
     <a href="mailto:becejact@gmail.com">
       <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
     </a>
+    <a href="https://github.com/bteodora/bteodora/raw/main/CV_Teodora_Becejac.pdf" download>
+      <img src="https://img.shields.io/badge/Download_CV-CBAFEB?style=for-the-badge&logo=googledrive&logoColor=white" height="30"/>
+    </a>
   </p>
 
 </div>
